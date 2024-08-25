@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+
+}
+/* ul{
+    position: absolute;
+    margin: 5px 6px 100px 280px;
+
+    
+} */
+.btn{
+    height: 190px;
+    width: 250px;
+  border-radius: 27%;
+  border: 4px solid skyblue ;
+margin: 3px;
+}
+.container{
+    display: flex ;
+justify-content: center;
+}
+.red{
+    background-color: rgb(198, 116, 116);
+}
+.green{
+    background-color: rgb(201, 243, 201);
+}
+.pink{
+    background-color: pink;
+}
+.blue{
+ background-color: rgb(143, 143, 215);  
+}
+.flash{
+    background-color: white;
+}
+.userflash{
+    background-color: green;
+}
