@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @parker594
 - 👀 I’m interested in learning new technologies and working on that
-- 🌱 I’m currently learning dsa in java and nodejs
+- 🌱 I’m currently learning dsa in java and  backend part in webdev
 - 💞️ I’m looking to collaborate on related to java development and i familiar frame work with express.js
 - 📫 How to reach me email-debajyotiupadhyaya@gmail.com
 - 😄 Pronouns: ...
